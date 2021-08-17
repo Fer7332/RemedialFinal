@@ -1,0 +1,32 @@
+E:\REMEDIAL\Bitacora_Laboratorio\Logica_Negocio\bin\Debug\Logica_Negocio.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Logica_Negocio\bin\Debug\Logica_Negocio.pdb
+E:\REMEDIAL\Bitacora_Laboratorio\Logica_Negocio\bin\Debug\ConexionBD.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Logica_Negocio\bin\Debug\Objetos.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Logica_Negocio\bin\Debug\ConexionBD.pdb
+E:\REMEDIAL\Bitacora_Laboratorio\Logica_Negocio\bin\Debug\Objetos.pdb
+E:\REMEDIAL\Bitacora_Laboratorio\Logica_Negocio\obj\Debug\Logica_Negocio.csproj.CoreCompileInputs.cache
+E:\REMEDIAL\Bitacora_Laboratorio\Logica_Negocio\obj\Debug\Logica_Negocio.csproj.CopyComplete
+E:\REMEDIAL\Bitacora_Laboratorio\Logica_Negocio\obj\Debug\Logica_Negocio.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Logica_Negocio\obj\Debug\Logica_Negocio.pdb
+E:\REMEDIAL\Bitacora_Laboratorio\Logica_Negocio\obj\Debug\Logica_Negocio.csprojAssemblyReference.cache
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Logica_Negocio\bin\Debug\Logica_Negocio.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Logica_Negocio\bin\Debug\Logica_Negocio.pdb
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Logica_Negocio\bin\Debug\ConexionBD.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Logica_Negocio\bin\Debug\Objetos.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Logica_Negocio\bin\Debug\ConexionBD.pdb
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Logica_Negocio\bin\Debug\Objetos.pdb
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Logica_Negocio\obj\Debug\Logica_Negocio.csproj.CoreCompileInputs.cache
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Logica_Negocio\obj\Debug\Logica_Negocio.csproj.CopyComplete
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Logica_Negocio\obj\Debug\Logica_Negocio.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Logica_Negocio\obj\Debug\Logica_Negocio.pdb
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Logica_Negocio\bin\Debug\Logica_Negocio.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Logica_Negocio\bin\Debug\Logica_Negocio.pdb
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Logica_Negocio\bin\Debug\ConexionBD.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Logica_Negocio\bin\Debug\Objetos.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Logica_Negocio\bin\Debug\ConexionBD.pdb
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Logica_Negocio\bin\Debug\Objetos.pdb
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Logica_Negocio\obj\Debug\Logica_Negocio.csprojAssemblyReference.cache
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Logica_Negocio\obj\Debug\Logica_Negocio.csproj.CoreCompileInputs.cache
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Logica_Negocio\obj\Debug\Logica_Negocio.csproj.CopyComplete
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Logica_Negocio\obj\Debug\Logica_Negocio.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Logica_Negocio\obj\Debug\Logica_Negocio.pdb

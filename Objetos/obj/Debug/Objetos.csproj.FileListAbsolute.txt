@@ -1,0 +1,6 @@
+E:\REMEDIAL\Bitacora_Laboratorio\Objetos\bin\Debug\Objetos.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Objetos\bin\Debug\Objetos.pdb
+E:\REMEDIAL\Bitacora_Laboratorio\Objetos\obj\Debug\Objetos.csproj.CoreCompileInputs.cache
+E:\REMEDIAL\Bitacora_Laboratorio\Objetos\obj\Debug\Objetos.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Objetos\obj\Debug\Objetos.pdb
+E:\REMEDIAL\Bitacora_Laboratorio\Objetos\obj\Debug\Objetos.csprojAssemblyReference.cache

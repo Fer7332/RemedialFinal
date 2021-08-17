@@ -1,0 +1,195 @@
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\Presentacion.dll.config
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\Presentacion.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\Presentacion.pdb
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\csc.exe
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\csc.exe.config
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\csc.rsp
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\csi.exe
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\csi.exe.config
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\csi.rsp
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.AppContext.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Console.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.IO.Compression.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Net.Http.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Net.Sockets.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.ValueTuple.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Xml.XPath.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\vbc.exe
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\vbc.exe.config
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\vbc.rsp
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\VBCSCompiler.exe
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\Logica_Negocio.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\Objetos.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\ConexionBD.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\Logica_Negocio.pdb
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\Objetos.pdb
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\bin\ConexionBD.pdb
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\obj\Debug\Presentacion.dll
+E:\REMEDIAL\Bitacora_Laboratorio\Presentacion\obj\Debug\Presentacion.pdb
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\Presentacion.dll.config
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\Presentacion.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\Presentacion.pdb
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\csc.exe
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\csc.exe.config
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\csc.rsp
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\csi.exe
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\csi.exe.config
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\csi.rsp
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.AppContext.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Console.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.IO.Compression.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Net.Http.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Net.Sockets.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.ValueTuple.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Xml.XPath.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\vbc.exe
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\vbc.exe.config
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\vbc.rsp
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\VBCSCompiler.exe
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\Logica_Negocio.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\Objetos.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\ConexionBD.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\Logica_Negocio.pdb
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\Objetos.pdb
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\ConexionBD.pdb
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\obj\Debug\Presentacion.dll
+E:\REMEDIAL\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\obj\Debug\Presentacion.pdb
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\Presentacion.dll.config
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\Presentacion.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\Presentacion.pdb
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\csc.exe
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\csc.exe.config
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\csc.rsp
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\csi.exe
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\csi.exe.config
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\csi.rsp
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.Managed.Core.targets
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.AppContext.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Collections.Immutable.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Console.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Globalization.Calendars.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.IO.Compression.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.IO.FileSystem.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Net.Http.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Net.Sockets.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.ValueTuple.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Xml.XmlDocument.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Xml.XPath.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\vbc.exe
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\vbc.exe.config
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\vbc.rsp
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\VBCSCompiler.exe
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\roslyn\VBCSCompiler.exe.config
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\Logica_Negocio.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\Objetos.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\ConexionBD.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\Logica_Negocio.pdb
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\Objetos.pdb
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\bin\ConexionBD.pdb
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\obj\Debug\Presentacion.dll
+E:\8B\Remedial Final Producto 2 - Maria Fernanda Ovilla Teoba\Bitacora_Laboratorio\Presentacion\obj\Debug\Presentacion.pdb

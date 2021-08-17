@@ -1,0 +1,5 @@
+E:\REMEDIAL\Bitacora_Laboratorio\ConexionBD\bin\Debug\ConexionBD.dll
+E:\REMEDIAL\Bitacora_Laboratorio\ConexionBD\bin\Debug\ConexionBD.pdb
+E:\REMEDIAL\Bitacora_Laboratorio\ConexionBD\obj\Debug\ConexionBD.csproj.CoreCompileInputs.cache
+E:\REMEDIAL\Bitacora_Laboratorio\ConexionBD\obj\Debug\ConexionBD.dll
+E:\REMEDIAL\Bitacora_Laboratorio\ConexionBD\obj\Debug\ConexionBD.pdb
